@@ -12,7 +12,7 @@
     "clean": "gatsby clean"
   },
   "engines": {
-    "node": "14.*.*"
+    "node": "12.*.*"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.11.1",
