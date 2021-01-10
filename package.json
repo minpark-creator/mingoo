@@ -11,6 +11,9 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
+  "engines": {
+    "node": "14.*.*"
+  },
   "dependencies": {
     "babel-plugin-styled-components": "^1.11.1",
     "dark-theme-github": "github:remorses/dark-github-theme",
